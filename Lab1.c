@@ -1,6 +1,8 @@
 /* Lab 1 first file - ID number 815008210 */
 
 //ihsjhdjksahdJHJHJ
+
+//THIA IA asASA
 #include <p18f452.h>
 /* Set configuration bits for use with ICD2 */
 #pragma config OSC = HS
