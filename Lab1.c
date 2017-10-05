@@ -1,6 +1,6 @@
 /* Lab 1 first file - ID number 815008210 */
 
-//this is a random message
+//ihsjhdjksahd
 #include <p18f452.h>
 /* Set configuration bits for use with ICD2 */
 #pragma config OSC = HS
